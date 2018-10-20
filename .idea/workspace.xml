@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="867b04cd-5054-40c6-998e-d79a7472867a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/各种标签.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="867b04cd-5054-40c6-998e-d79a7472867a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +15,7 @@
     <session id="-731452899">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -150,12 +146,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540042549064</updated>
       <workItem from="1540042552564" duration="91000" />
-      <workItem from="1540043080345" duration="2319000" />
+      <workItem from="1540043080345" duration="2413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2410000" />
+    <option name="totallyTimeSpent" value="2504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="131" width="1400" height="752" extended-state="0" />

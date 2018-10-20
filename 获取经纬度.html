@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>获取用户经纬度</title>
+</head>
+<body>
+<p id="demo">点击按钮获取坐标:</p>
+<button onclick="getLocation()">试一下</button>
+<script>
+    var  x=document.getElementById("demo");
+
+    function getLocation() {
+        if (navigator.geolocation)//检测是否支持地理定位
+        {
+            navigator.geolocation.getCurrentPosition(showPosition);
+            //支持则运行getCurrentPosition方法
+
+        }
+        else {x.innerHTML="此浏览器不支持地理定位";}
+    }
+    function showPosition(position) //获得并显示经纬度
+    {
+        x.innerHTML="维度Latitude:" + position.coords.latitude+"<br />经度Longitude:" + position.coords.longitude;
+    }
+
+
+</script>
+</body>
+</html>
